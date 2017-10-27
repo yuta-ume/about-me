@@ -1,6 +1,4 @@
 # Yuta UMESAWA
-Here about Yuta UMESAWA(梅澤優太, 梅泽优太)\
-Entrepreneur, Fashion Enthusiast, The KOP.
 
 ## 基本情報
 - 千葉県出身
