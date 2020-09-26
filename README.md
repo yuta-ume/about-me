@@ -26,3 +26,8 @@ https://lions.orical.jp/
 - [Facebook](https://www.facebook.com/yutaume421)
 - [Wantedly](https://www.wantedly.com/users/18573033)
 
+## 作っているサービス
+- [L COLLECTION by ORICAL](https://lions.orical.jp/)
+埼玉西武ライオンズ公式電子トレカサービスです。弊社システム「ORICAL」の提携第一弾。
+- [whooop!](https://whooop.jp/)
+スポーツチームの電子トレカ売買プラットフォームです。
