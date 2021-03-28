@@ -32,7 +32,6 @@ https://marines.orical.jp/
 ## 作っているサービス
 - [MARINES COLLECTION by ORICAL](https://marines.orical.jp/)
 ORICAL連携第三弾、千葉ロッテマリーンズ公式電子トレカサービスです。
-## 作っているサービス
 - [大相撲コレクション by ORICAL](https://sumo.orical.jp/)
 ORICAL連携第二弾、日本相撲協会公式電子トレカサービスです。
 - [L COLLECTION by ORICAL](https://lions.orical.jp/)
