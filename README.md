@@ -14,7 +14,7 @@
 - 2021年3月 東京大学経済学部 卒業
 
 ## 職歴・活動歴
-- 2017年 20歳で株式会社ventusを創業、取締役COO就任
+- 2017年 大学2年次、20歳で株式会社ventusを創業、取締役COO就任
 https://ventus-inc.com/
 - 2018年11月 「スポーツチームの電子トレカプラットフォーム」 whooop!を公開。
 https://whooop.jp/
@@ -23,11 +23,15 @@ https://whooop.jp/
 https://lions.orical.jp/
 - 2021年1月 ORICAL第二弾として、日本相撲協会との連携により「大相撲コレクション」をリリース。
 https://sumo.orical.jp/
+- 2021年3月 ORICAL第三弾として、千葉ロッテマリーンズとの連携により「MARINES COLLECTION」をリリース。
+https://marines.orical.jp/
 
 ## アカウント
 - [Facebook](https://www.facebook.com/yutaume421)
-- [Wantedly](https://www.wantedly.com/users/18573033)
 
+## 作っているサービス
+- [MARINES COLLECTION by ORICAL](https://marines.orical.jp/)
+ORICAL連携第三弾、千葉ロッテマリーンズ公式電子トレカサービスです。
 ## 作っているサービス
 - [大相撲コレクション by ORICAL](https://sumo.orical.jp/)
 ORICAL連携第二弾、日本相撲協会公式電子トレカサービスです。
