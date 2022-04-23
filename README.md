@@ -2,7 +2,7 @@
 
 ## 基本情報
 - 梅澤優太(うめさわゆうた,梅泽优太)
-- 1997年4月21日生(24歳)
+- 1997年4月21日生(25歳)
 - 千葉県出身
 - 株式会社ventus 代表取締役CEO
 
@@ -22,11 +22,20 @@ https://lions.orical.jp/
 https://sumo.orical.jp/
 - 2021年3月 ORICAL第三弾として、千葉ロッテマリーンズとの連携により「MARINES COLLECTION」をリリース。
 https://marines.orical.jp/
+- 2022年3月 ORICAL第四弾として、東京ヤクルトスワローズとの連携により「スワローズトレカ」をリリース。
+https://swallows.orical.jp/
+- 2022年4月 ORICAL第五弾として、中日ドラゴンズとの連携により「ドラゴンズコレクション」をリリース。
+https://dragons.orical.jp/
+
 
 ## アカウント
 - [Facebook](https://www.facebook.com/yutaume421)
 
 ## 作っているサービス
+- [ドラゴンズコレクション by ORICAL](https://dragons.orical.jp/)
+ORICAL連携第五弾、中日ドラゴンズ 電子トレカサービスです。
+- [スワローズトレカ by ORICAL](https://swallows.orical.jp/)
+ORICAL連携第四弾、東京ヤクルトスワローズ公式電子トレカサービスです。
 - [MARINES COLLECTION by ORICAL](https://marines.orical.jp/)
 ORICAL連携第三弾、千葉ロッテマリーンズ公式電子トレカサービスです。
 - [大相撲コレクション by ORICAL](https://sumo.orical.jp/)
